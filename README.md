@@ -39,7 +39,8 @@ A macro-view of national health trends, demographic breakdowns, and the socio-ec
 
 ### Page 2: Risk Factor Explorer
 An interactive "Why" page where users can use slicers (Smoker, Activity, Income) to see how the "Risk Gauge" swings compared to the national average.
-![Risk_Analysis](Images/Risk_Analysis.png)
+
+<img width="1436" height="800" alt="Image" src="https://github.com/user-attachments/assets/e6e368e9-59d9-46f5-b987-8046d99569b6" />
 
 
 ---

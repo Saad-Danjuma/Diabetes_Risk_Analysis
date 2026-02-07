@@ -34,7 +34,8 @@ Using scatter plot clustering, the analysis pinpointed a critical risk zone: **i
 
 ### Page 1: Executive_Summary
 A macro-view of national health trends, demographic breakdowns, and the socio-economic health gap.
-![Executive_Summary](Images/Executive_Summary.png)
+
+<img width="1429" height="810" alt="Image" src="https://github.com/user-attachments/assets/ce937612-61d3-40cb-9fd2-03c87e14a01a" />
 
 ### Page 2: Risk Factor Explorer
 An interactive "Why" page where users can use slicers (Smoker, Activity, Income) to see how the "Risk Gauge" swings compared to the national average.
